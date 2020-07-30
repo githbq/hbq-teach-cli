@@ -4,7 +4,7 @@ export default {
      * 启动
      */
     async start(data) {
-        console.log('hello cli')
+        console.log('hello liuhanfei')
     },
     command: ['start', '开始', {
         // remove: {
